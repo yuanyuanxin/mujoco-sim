@@ -4,6 +4,8 @@
 
 Simulation demo (MuJoCo): minimal demo for loading and controlling the Wuji Hand in MuJoCo simulator.
 
+> For detailed usage guide, see [Wuji Hand Description Guide — MuJoCo Simulation](https://docs.wuji.technology/docs/en/wuji-hand/latest/wuji-hand-description-guide/#331-mujoco-simulation).
+
 https://github.com/user-attachments/assets/4b3d6d5c-420e-4e15-bbe7-68bcad9729f0
 
 <video src="./assets/video.mp4" controls=""></video>
