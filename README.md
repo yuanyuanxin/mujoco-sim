@@ -25,6 +25,10 @@ https://github.com/user-attachments/assets/4b3d6d5c-420e-4e15-bbe7-68bcad9729f0
 
 ## Quick Start
 
+### Prerequisites
+
+- Python 3.8+
+
 ### Installation
 
 ```bash
@@ -40,6 +44,14 @@ python run_sim.py
 ```
 
 The script loads the default right hand model and plays the trajectory from `data/wave.npy` in a loop. To use the left hand, edit `side = "left"` in `run_sim.py`.
+
+### Update Models
+
+To update hand models to the latest version:
+
+```bash
+git submodule update --remote
+```
 
 ## Contact
 
