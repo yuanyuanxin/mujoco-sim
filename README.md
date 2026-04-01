@@ -43,7 +43,7 @@ pip install -r requirements.txt
 python run_sim.py
 ```
 
-The script loads the default right hand model and plays the trajectory from `data/wave.npy` in a loop. To use the left hand, edit `side = "left"` in `run_sim.py`.
+The script loads the default right-hand model and plays the trajectory from `data/wave.npy` in a loop. To use the left hand, edit `side = "left"` in `run_sim.py`.
 
 ### Update Models
 
